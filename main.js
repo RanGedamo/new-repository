@@ -12,4 +12,3 @@
         catch(err){}
         finally{}
     }
-    yasu()
